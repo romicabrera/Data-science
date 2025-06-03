@@ -1,11 +1,10 @@
-# fundamentos de ciencia de datos con python
+# Fundamentos de ciencia de datos con python
 
-_Proyectos que permiten la ejemplificación de códigos en python, con diferente complejidad.
+Proyectos que permiten la ejemplificación de códigos en python, con diferente complejidad.
 
 * variables, tipos de datos, operadores lógicos, operadores cóndicionales, manejo de errores, métodos, listas, tuplas, set, diccionarios.
 * estructuras de control, funciones, programación orientada a objetos, manejo de archivos, manejo de excepciones, manejo de bases de datos, manejo de APIs, manejo de librerías externas.
 * manejo de dataframes, manejo de gráficos, manejo de visualizaciones, manejo de machine learning, manejo de deep learning, manejo de redes neuronales, manejo de procesamiento de lenguaje natural, manejo de procesamiento de imágenes, manejo de procesamiento de audio, manejo de procesamiento de video.
-  _
 
 ## Comenzando 🚀
 
@@ -19,7 +18,6 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 
 ```
 Visual Studio Code, PyCharm, Jupyter Notebook, Anaconda, Google colab, etc.
-```
 ```
 
 ```
