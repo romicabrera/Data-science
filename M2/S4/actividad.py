@@ -20,8 +20,8 @@ def calcular_circunferencia(radio):
     return 2 * math.pi * radio
 
 # calcular_promedio
-def calcular_promedio(numeros):
-    return sum(numeros) / len(numeros)
+def calcular_promedio(lista):
+    return sum(lista) / len(lista)
 
 # calcular_promedio_avanzado
 def calcular_promedio_avanzado(numeros):
