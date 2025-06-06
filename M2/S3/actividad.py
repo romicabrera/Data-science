@@ -42,24 +42,14 @@ while True:
     comentario += '¡Puntuación perfecta!' if promedio == 7 else ''
     
     # Almacenar estudiantes en la lista vacia creada al comienzo, nombre y comentario
-    estudiantes.append((nombre, comentario, promedio))
+    estudiantes.append((nombre, comentario))
 
 # Bucle o ciclo for para mostrar el nombre y los comentarios de todos los estudiantes ingresados
-print('\n Resultados:')
+print('\nResultados:')
+print(estudiantes)
+
 # for iterador in [estructura_iterar]
 for nombre, comentario in estudiantes: # [('Fulanito', '¡Puntuación perfecta!'), (nombre, comentario), ('Jose Feliciano', 'Excelente')]
     print(f'{nombre} : {comentario}')
-
-
-
-
-
-
-
-
-
-'''
-Requerimos calcular el factorial de un número, asignarlo a una variable, y luego imprimirla. 
-Sabiendo que el factorial es el resultado de la multiplicación de todos los enteros positivos que hay entre un número y uno. 
-Ejemplo: Factorial de 4 es 4 * 3 * 2 * 1.
-'''
+ 
+ 
